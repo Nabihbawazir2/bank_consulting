@@ -1,0 +1,3 @@
+# Configuration settings
+DEFAULT_BALANCE = 1000.0
+WITHDRAWAL_LIMIT = 500.0
